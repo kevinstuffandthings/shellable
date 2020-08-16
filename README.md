@@ -42,7 +42,7 @@ require 'shellable'
 Shellable.open(calendar)
 ```
 
-To check out a real-life example, head over to the TimeBoss [`timeboss:calendars:*:repl`](https://github.com/kevinstuffandthings/timeboss/blob/96fd252e7fa4990dc625a542a84613a1c7f7053c/lib/tasks/calendars.rake#L12-L16) task definition.
+To check out a real-life example, head over to the TimeBoss [`timeboss:calendars:*:repl`](https://github.com/kevinstuffandthings/timeboss/blob/1e7a27de0add7da4fe77b49af62b650a7771021b/lib/tasks/calendars.rake#L12-L16) task definition.
 
 ```
 $ rake timeboss:calendars:broadcast:repl
